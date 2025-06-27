@@ -1,6 +1,6 @@
 # 💼 Emem Ubia | Data Analytics Portfolio
 
-Welcome to my portfolio! I’m a data analyst with experience in customer insights, financial analysis, and business intelligence. This repository showcases a collection of real-world analytics projects that demonstrate my skills in Python, SQL, Power BI, and Excel, including data cleaning, analysis, and visualization for informed strategic decision-making.
+Welcome to my portfolio. I’m a data analyst with experience in customer insights, financial analysis, and business intelligence. This repository showcases a collection of real-world analytics projects that demonstrate my skills in Python, SQL, Power BI, and Excel, including data cleaning, analysis, and visualization for informed strategic decision-making.
 
 ---
 
